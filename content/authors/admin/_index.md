@@ -20,7 +20,7 @@ organizations:
   url: "https://business.rice.edu/person/ilan-strauss"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a macroeconomist who lectures at NYU and Rice University, with 5-7 years of economic policy analysis experience with leading multilaterals, governments, and labour constiuencies. I hold an MSc in International Economics from SOAS (University of London) and a PhD in economics from the New School for Social Research (New York)
+bio: I am a macroeconomist who lectures at NYU and Rice University, with 7 years of economic policy analysis experience with leading multilaterals, governments, and labour constiuencies. I hold an MSc in international economics from SOAS (University of London) and a PhD in economics from the New School for Social Research (New York).
 
 interests:
 - progressive macroeconomic policy making
@@ -79,4 +79,4 @@ email: "is72@nyu.edu"
 #- Visitors
 ---
 
-Ilan Strauss is a lecturer in macroeconomics at NYU (Division of Applied Undergraduate Studies) and on Rice University's online MBA program. He has 7 years of economic policy analysis experience with leading multilaterals, governments, and labour constiuencies. He holds an MSc in International Economics from SOAS (University of London) and a PhD in economics from the New School for Social Research (New York). His research interests include macroeconomic policy, the 'secular stagnation' hypothesis, firm-level data, foreign direct investment, industrial policy, Bayesian panel regressions, and data visualization.
+Ilan Strauss is a lecturer in macroeconomics at NYU (Division of Applied Undergraduate Studies) and on Rice University's online MBA program. He has 7 years of economic policy analysis experience with leading multilaterals, governments, and labour constiuencies. He holds an MSc in international economics from SOAS (University of London) and a PhD in economics from the New School for Social Research (New York). His research interests include macroeconomic policy, the 'secular stagnation' hypothesis, firm-level data, foreign direct investment, industrial policy, Bayesian panel regressions and data visualization, and inequality.
